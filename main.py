@@ -113,4 +113,4 @@ while True:
         print(f"Error: {e}")
 
     # Run daily (change as needed)
-    time.sleep(30)
+    time.sleep(15 * 24 * 60 * 60) # for every 15 days
