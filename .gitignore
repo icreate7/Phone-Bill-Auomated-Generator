@@ -1,0 +1,32 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments (if you have one)
+venv/
+env/
+.venv/
+
+# Ignore IDE-specific files (PyCharm)
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore SQLite or other test databases
+*.sqlite3
+*.db
+
+# Ignore instance folder if you're using one for config
+instance/
+
+# Optional: ignore VSCode settings if you're using VSCode too
+.vscode/
+
