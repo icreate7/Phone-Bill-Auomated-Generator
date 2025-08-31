@@ -46,4 +46,4 @@ Works with Gmail by default. For Outlook, Yahoo, etc., you’ll need to update t
 
 If the email fails, check that your .env is loaded correctly and that your app password is valid.
 
-Never commit your .env file to GitHub – add it to .gitignore.
+
